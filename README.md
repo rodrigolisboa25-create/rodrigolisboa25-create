@@ -72,7 +72,7 @@ Desenvolvimento de soluções com modelos generativos, recuperação de contexto
 | Governança | Evidências, hashes, logs, histórico de execução e controles de reprocessamento |
 | Inteligência artificial | RAG, agentes com ferramentas, embeddings, busca vetorial, context engineering, MCP, avaliação, guardrails e LLMOps |
 
-## Projetos em destaque
+## ⭐ Projetos em destaque
 
 ### Estoque Contábil
 
