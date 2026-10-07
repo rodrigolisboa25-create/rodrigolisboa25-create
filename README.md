@@ -1,0 +1,93 @@
+# Olá, eu sou Rodrigo Lisboa 👋
+
+Atuo na interseção entre **operações financeiras, automação de processos e dados**. Desenvolvo soluções que transformam rotinas manuais, planilhas pesadas e controles dispersos em fluxos mais rápidos, auditáveis e fáceis de operar.
+
+Meu trabalho combina conhecimento do processo financeiro com desenvolvimento prático: entendo a necessidade da operação, estruturo as regras, automatizo a execução e preparo controles para que o resultado possa ser conferido e sustentado.
+
+## O que eu faço
+
+- Automatizo processos financeiros, contábeis e operacionais.
+- Integro SAP, Excel, bancos de dados, APIs e ferramentas Google.
+- Estruturo pipelines para consolidação, validação e reconciliação de dados.
+- Crio aplicações locais, dashboards e relatórios para apoiar decisões.
+- Desenvolvo rotinas com trilha de auditoria, tratamento de erros e reprocessamento seguro.
+- Aplico inteligência artificial em consultas, curadoria de conteúdo e apoio à operação.
+- Organizo soluções para distribuição e uso por pessoas sem conhecimento técnico.
+
+## Tecnologias e ferramentas
+
+### Desenvolvimento e dados
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+
+### Automação e integrações
+
+![SAP](https://img.shields.io/badge/SAP_GUI_Scripting-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+### Análise e entrega
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## Áreas de experiência
+
+| Área | Aplicações |
+| --- | --- |
+| Operações financeiras | Conciliação, contas a receber, numerário, transportadoras de valores e marketplace |
+| Contabilidade e estoque | Posição contábil, movimentos de materiais, cadastros, aging e regras de classificação |
+| Automação SAP | Extrações assistidas, validação de arquivos e integração com pipelines locais |
+| Engenharia de dados | Normalização, deduplicação, contratos de entrada, DuckDB, Parquet e SQL |
+| Google Workspace | Sheets, Gmail, Drive e Apps Script para fluxos operacionais e comunicação |
+| Governança | Evidências, hashes, logs, histórico de execução e controles de reprocessamento |
+| Inteligência artificial | Agentes de consulta, curadoria de conteúdo e apoio à análise de dados |
+
+## Projeto em destaque
+
+### Estoque Contábil
+
+Plataforma local em Python e FastAPI para processar posições contábeis de estoque, automatizar extrações SAP, consolidar regras de negócio e disponibilizar análises auditáveis.
+
+O projeto reúne pipeline de dados, DuckDB, interface web local, relatórios, controles, instalador, integração com n8n e um agente de consultas chamado Optimus.
+
+➡️ [Conheça o projeto Estoque Contábil](https://github.com/rodrigolisboa25-create/projects/tree/main/estoque-contabil)
+
+## Como eu desenvolvo
+
+```mermaid
+flowchart LR
+    A[Entender o processo] --> B[Mapear dados e regras]
+    B --> C[Automatizar]
+    C --> D[Validar o resultado]
+    D --> E[Documentar]
+    E --> F[Distribuir e sustentar]
+```
+
+Priorizo soluções que sejam:
+
+- **Práticas:** adequadas à rotina real de quem vai usar.
+- **Auditáveis:** com origem, regras e resultados verificáveis.
+- **Resilientes:** preparadas para mudanças de layout e falhas operacionais.
+- **Reutilizáveis:** organizadas para adaptação a outras áreas e empresas.
+- **Simples de executar:** com instalação e operação acessíveis ao usuário final.
+
+## Repositórios
+
+📁 [Projetos de automação, dados e operações financeiras](https://github.com/rodrigolisboa25-create/projects)
+
+## Contato
+
+Você pode acompanhar meus projetos e entrar em contato pelo meu perfil no GitHub.
+
+[![GitHub](https://img.shields.io/badge/GitHub-rodrigolisboa25--create-181717?style=for-the-badge&logo=github)](https://github.com/rodrigolisboa25-create)
