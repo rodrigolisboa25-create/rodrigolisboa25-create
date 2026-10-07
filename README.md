@@ -24,6 +24,25 @@ Meu trabalho combina conhecimento do processo financeiro com desenvolvimento pr�
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat-square&logo=openai&logoColor=white)](https://openai.com/codex/)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://claude.com/product/claude-code)
+
+### Inteligência artificial
+
+Desenvolvimento de soluções com modelos generativos, recuperação de contexto, agentes com ferramentas e controles para uso confiável em processos reais.
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6D28D9?style=flat-square)
+![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-Tool_Use_e_Orquestracao-7C3AED?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-Function_Calling-2563EB?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-Vector_Search-0F766E?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-Prompts_e_Memoria-B45309?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-475569?style=flat-square)
+![Guardrails](https://img.shields.io/badge/Guardrails-Avaliacao_e_Seguranca-B91C1C?style=flat-square)
+![LLMOps](https://img.shields.io/badge/LLMOps-Observabilidade_e_Custos-374151?style=flat-square)
 
 ### Automação e integrações
 
@@ -51,7 +70,7 @@ Meu trabalho combina conhecimento do processo financeiro com desenvolvimento pr�
 | Engenharia de dados | Normalização, deduplicação, contratos de entrada, DuckDB, Parquet e SQL |
 | Google Workspace | Sheets, Gmail, Drive e Apps Script para fluxos operacionais e comunicação |
 | Governança | Evidências, hashes, logs, histórico de execução e controles de reprocessamento |
-| Inteligência artificial | Agentes de consulta, curadoria de conteúdo e apoio à análise de dados |
+| Inteligência artificial | RAG, agentes com ferramentas, embeddings, busca vetorial, context engineering, MCP, avaliação, guardrails e LLMOps |
 
 ## Projetos em destaque
 
