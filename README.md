@@ -71,17 +71,38 @@ O projeto reúne pipeline de dados, DuckDB, interface web local, relatórios, co
 
 ## Como eu desenvolvo
 
-```mermaid
-flowchart TB
-    A[1. Entender o processo]
-    B[2. Mapear os dados e as regras]
-    C[3. Automatizar o fluxo]
-    D[4. Validar o resultado]
-    E[5. Documentar a solução]
-    F[6. Distribuir e sustentar]
-
-    A --> B --> C --> D --> E --> F
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>1️⃣ Entender o processo</strong><br>
+      Conhecer a rotina, as pessoas envolvidas e o resultado esperado.
+    </td>
+    <td width="50%" valign="top">
+      <strong>2️⃣ Mapear dados e regras</strong><br>
+      Identificar fontes, exceções, validações e critérios do negócio.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>3️⃣ Automatizar o fluxo</strong><br>
+      Transformar as etapas manuais em uma execução simples e controlada.
+    </td>
+    <td width="50%" valign="top">
+      <strong>4️⃣ Validar o resultado</strong><br>
+      Conferir dados, regras, evidências e comportamento em situações reais.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>5️⃣ Documentar a solução</strong><br>
+      Registrar arquitetura, configuração, operação e recuperação de falhas.
+    </td>
+    <td width="50%" valign="top">
+      <strong>6️⃣ Distribuir e sustentar</strong><br>
+      Preparar o uso diário, as atualizações e a adaptação para novos contextos.
+    </td>
+  </tr>
+</table>
 
 Priorizo soluções que sejam:
 
