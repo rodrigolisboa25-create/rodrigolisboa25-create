@@ -55,27 +55,21 @@ Meu trabalho combina conhecimento do processo financeiro com desenvolvimento pr�
 
 ## Projetos em destaque
 
+### Estoque Contábil
+
+Plataforma local em Python e FastAPI para processar posições contábeis de estoque, automatizar extrações SAP, consolidar regras de negócio e disponibilizar análises auditáveis.
+
+🤖 O grande destaque é o **Optimus**, agente de IA integrado ao n8n e ao Google Gemini. Ele responde perguntas sobre competências, valor fiscal, aging, lifecycle, origem, centros e controles usando contexto validado pela API local, sem depender da abertura de várias planilhas.
+
+O Optimus também identifica pendências, consulta o Health Center, prepara relatórios e apresentações e acompanha eventos proativos. Extrações SAP, importações, Mapping, backup e outras ações protegidas só são executadas depois de resumo e confirmação explícita do usuário.
+
+➡️ [Conheça o projeto Estoque Contábil](https://github.com/rodrigolisboa25-create/projects/tree/main/estoque-contabil)
+
 ### SmartSlip
 
 Aplicação web em Google Apps Script para receber comprovantes financeiros, organizar arquivos no Google Drive, extrair informações com Gemini e acompanhar filas, histórico, indicadores e alertas.
 
 ➡️ [Conheça o projeto SmartSlip](https://github.com/rodrigolisboa25-create/projects/tree/main/smartslip)
-
-### Estoque Contábil
-
-Plataforma local em Python e FastAPI para processar posições contábeis de estoque, automatizar extrações SAP, consolidar regras de negócio e disponibilizar análises auditáveis.
-
-O projeto reúne pipeline de dados, DuckDB, interface web local, relatórios, controles, instalador, integração com n8n e um agente de consultas chamado Optimus.
-
-➡️ [Conheça o projeto Estoque Contábil](https://github.com/rodrigolisboa25-create/projects/tree/main/estoque-contabil)
-
-### Vektor
-
-Ecossistema modular em Google Apps Script que centraliza governança financeira, automações, dados e inteligência artificial em um único portal com controle de acesso e trilha de auditoria.
-
-O projeto integra gestão do cartão corporativo, Numerário, Contas a Receber/Prosegur, POS, SAP/RPA, Gmail, Drive, BigQuery, Vertex AI, agentes especializados e painéis de Business Intelligence.
-
-➡️ [Conheça o projeto Vektor](https://github.com/rodrigolisboa25-create/projects/tree/main/vektor)
 
 ## Como eu desenvolvo
 
