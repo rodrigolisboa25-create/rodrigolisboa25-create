@@ -69,6 +69,14 @@ O projeto reúne pipeline de dados, DuckDB, interface web local, relatórios, co
 
 ➡️ [Conheça o projeto Estoque Contábil](https://github.com/rodrigolisboa25-create/projects/tree/main/estoque-contabil)
 
+### Vektor
+
+Ecossistema modular em Google Apps Script que centraliza governança financeira, automações, dados e inteligência artificial em um único portal com controle de acesso e trilha de auditoria.
+
+O projeto integra gestão do cartão corporativo, Numerário, Contas a Receber/Prosegur, POS, SAP/RPA, Gmail, Drive, BigQuery, Vertex AI, agentes especializados e painéis de Business Intelligence.
+
+➡️ [Conheça o projeto Vektor](https://github.com/rodrigolisboa25-create/projects/tree/main/vektor)
+
 ## Como eu desenvolvo
 
 <table>
