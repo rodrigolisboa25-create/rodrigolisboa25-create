@@ -35,12 +35,13 @@ Desenvolvimento de soluções com modelos generativos, recuperação de contexto
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/)
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
+[![Gemini Enterprise](https://img.shields.io/badge/Gemini_Enterprise-4285F4?style=flat-square&logo=googlegemini&logoColor=white)](https://cloud.google.com/gemini-enterprise)
+[![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-1A73E8?style=flat-square&logo=google&logoColor=white)](https://aistudio.google.com/)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6D28D9?style=flat-square)
 ![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-Tool_Use_e_Orquestracao-7C3AED?style=flat-square)
 ![Tool Calling](https://img.shields.io/badge/Tool_Calling-Function_Calling-2563EB?style=flat-square)
 ![Embeddings](https://img.shields.io/badge/Embeddings-Vector_Search-0F766E?style=flat-square)
 ![Context Engineering](https://img.shields.io/badge/Context_Engineering-Prompts_e_Memoria-B45309?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-475569?style=flat-square)
 ![Guardrails](https://img.shields.io/badge/Guardrails-Avaliacao_e_Seguranca-B91C1C?style=flat-square)
 ![LLMOps](https://img.shields.io/badge/LLMOps-Observabilidade_e_Custos-374151?style=flat-square)
 
@@ -70,7 +71,7 @@ Desenvolvimento de soluções com modelos generativos, recuperação de contexto
 | Engenharia de dados | Normalização, deduplicação, contratos de entrada, DuckDB, Parquet e SQL |
 | Google Workspace | Sheets, Gmail, Drive e Apps Script para fluxos operacionais e comunicação |
 | Governança | Evidências, hashes, logs, histórico de execução e controles de reprocessamento |
-| Inteligência artificial | RAG, agentes com ferramentas, embeddings, busca vetorial, context engineering, MCP, avaliação, guardrails e LLMOps |
+| Inteligência artificial | RAG, agentes com ferramentas, embeddings, busca vetorial, context engineering, avaliação, guardrails e LLMOps |
 
 ## ⭐ Projetos em destaque
 
