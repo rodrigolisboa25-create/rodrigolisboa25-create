@@ -53,7 +53,13 @@ Meu trabalho combina conhecimento do processo financeiro com desenvolvimento pr�
 | Governança | Evidências, hashes, logs, histórico de execução e controles de reprocessamento |
 | Inteligência artificial | Agentes de consulta, curadoria de conteúdo e apoio à análise de dados |
 
-## Projeto em destaque
+## Projetos em destaque
+
+### SmartSlip
+
+Aplicação web em Google Apps Script para receber comprovantes financeiros, organizar arquivos no Google Drive, extrair informações com Gemini e acompanhar filas, histórico, indicadores e alertas.
+
+➡️ [Conheça o projeto SmartSlip](https://github.com/rodrigolisboa25-create/projects/tree/main/smartslip)
 
 ### Estoque Contábil
 
@@ -66,12 +72,15 @@ O projeto reúne pipeline de dados, DuckDB, interface web local, relatórios, co
 ## Como eu desenvolvo
 
 ```mermaid
-flowchart LR
-    A[Entender o processo] --> B[Mapear dados e regras]
-    B --> C[Automatizar]
-    C --> D[Validar o resultado]
-    D --> E[Documentar]
-    E --> F[Distribuir e sustentar]
+flowchart TB
+    A[1. Entender o processo]
+    B[2. Mapear os dados e as regras]
+    C[3. Automatizar o fluxo]
+    D[4. Validar o resultado]
+    E[5. Documentar a solução]
+    F[6. Distribuir e sustentar]
+
+    A --> B --> C --> D --> E --> F
 ```
 
 Priorizo soluções que sejam:
@@ -88,6 +97,7 @@ Priorizo soluções que sejam:
 
 ## Contato
 
-Você pode acompanhar meus projetos e entrar em contato pelo meu perfil no GitHub.
+Você pode acompanhar meus projetos pelo GitHub ou entrar em contato pelo LinkedIn.
 
 [![GitHub](https://img.shields.io/badge/GitHub-rodrigolisboa25--create-181717?style=for-the-badge&logo=github)](https://github.com/rodrigolisboa25-create)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Lisboa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-lisboa-72170a56/)
