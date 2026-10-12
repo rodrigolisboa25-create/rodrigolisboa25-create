@@ -140,7 +140,8 @@ Priorizo soluções que sejam:
 
 ## Contato
 
-Você pode acompanhar meus projetos pelo GitHub ou entrar em contato pelo LinkedIn.
+Você pode acompanhar meus projetos pelo GitHub ou entrar em contato pelo LinkedIn e WhatsApp.
 
 [![GitHub](https://img.shields.io/badge/GitHub-rodrigolisboa25--create-181717?style=for-the-badge&logo=github)](https://github.com/rodrigolisboa25-create)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Lisboa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-lisboa-72170a56/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+55_11_98589--1419-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511985891419)
