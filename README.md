@@ -65,6 +65,7 @@ Desenvolvimento de soluções com modelos generativos, recuperação de contexto
 
 | Área | Aplicações |
 | --- | --- |
+| Logística Internacional | NexxusDoc: documentação de processos e POPs com IA, base de conhecimento e REF. DOCS; mapeamento de oportunidades de automação e fluxos As Is; consultas ao BigQuery e análise técnica de transações SAP; processos da PGL e cenários de orçamento inbound |
 | Operações financeiras | Conciliação, contas a receber, numerário, transportadoras de valores e marketplace |
 | Contabilidade e estoque | Posição contábil, movimentos de materiais, cadastros, aging e regras de classificação |
 | Automação SAP | Extrações assistidas, validação de arquivos e integração com pipelines locais |
