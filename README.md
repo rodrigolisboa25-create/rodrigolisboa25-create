@@ -75,11 +75,17 @@ Desenvolvimento de soluções com modelos generativos, recuperação de contexto
 
 ## ⭐ Projetos em destaque
 
-### NexxusDoc
+### 🧩 NexxusDoc
 
-Agente para documentar processos por meio de entrevistas guiadas, gerar procedimentos em PDF e acompanhar revisão, aprovação e consulta ao acervo. Desenvolvido como aplicação local para Windows, com Python, FastAPI e fluxos de IA.
+Aplicação local em Python e FastAPI para documentar processos por entrevistas guiadas, organizar anexos e referências, gerar procedimentos em PDF e acompanhar revisão, aprovação e consulta ao acervo.
 
-➡️ [Conheça o projeto NexxusDoc](https://github.com/rodrigolisboa25-create/projects/tree/main/nexxusdoc)
+🤖 O destaque é o **NexxusDoc**, agente de IA orquestrado pelo n8n com um modelo Gemini configurado em endpoint compatível. Ele pergunta uma coisa por vez sobre etapas, responsáveis, sistemas, controles, evidências, riscos e exceções. Na revisão de um documento antigo, aproveita o conteúdo recebido e investiga apenas as lacunas. A API local prepara o contexto e valida campos essenciais antes de gerar o PDF.
+
+O sistema sinaliza temas duplicados, relaciona procedimentos, mantém versões e registra a decisão de aprovadores habilitados. As entrevistas também alimentam um mapa de oportunidades de automação. O modelo auxilia a redação; o responsável da área revisa o conteúdo antes da vigência.
+
+**Tecnologias:** Python, FastAPI, HTML/CSS/JavaScript, n8n, Gemini, Google Drive e PDF. A versão pública traz código e workflow sanitizados, com dados e credenciais corporativas excluídos.
+
+➡️ [Código, fluxogramas e documentação do NexxusDoc](https://github.com/rodrigolisboa25-create/projects/tree/main/nexxusdoc)
 
 ### Estoque Contábil
 
