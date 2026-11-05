@@ -65,14 +65,14 @@ Desenvolvimento de soluções com modelos generativos, recuperação de contexto
 
 | Área | Aplicações |
 | --- | --- |
-| Logística&nbsp;Internacional | Documentação de processos com IA, base de conhecimento, relações entre procedimentos, mapeamento de oportunidades de automação, fluxos As Is, consultas ao BigQuery, análise técnica de transações SAP, processos de prestadores e orçamento inbound |
-| Operações&nbsp;financeiras | Conciliação, contas a receber, numerário, transportadoras de valores e marketplace |
-| Contabilidade&nbsp;e&nbsp;estoque | Posição contábil, movimentos de materiais, cadastros, aging e regras de classificação |
-| Automação&nbsp;SAP | Extrações assistidas, validação de arquivos e integração com pipelines locais |
-| Engenharia&nbsp;de&nbsp;dados | Normalização, deduplicação, contratos de entrada, DuckDB, Parquet e SQL |
-| Google&nbsp;Workspace | Sheets, Gmail, Drive e Apps Script para fluxos operacionais e comunicação |
+| Logística Internacional | Procedimentos com IA, base de conhecimento, automações, análises SAP/BigQuery, processos PGL e orçamento inbound |
+| Operações financeiras | Conciliação, contas a receber, numerário, transportadoras de valores e marketplace |
+| Contabilidade e estoque | Posição contábil, movimentos de materiais, cadastros, aging e regras de classificação |
+| Automação SAP | Extrações assistidas, validação de arquivos e integração com pipelines locais |
+| Engenharia de dados | Normalização, deduplicação, contratos de entrada, DuckDB, Parquet e SQL |
+| Google Workspace | Sheets, Gmail, Drive e Apps Script para fluxos operacionais e comunicação |
 | Governança | Evidências, hashes, logs, histórico de execução e controles de reprocessamento |
-| Inteligência&nbsp;artificial | RAG, agentes com ferramentas, embeddings, busca vetorial, context engineering, avaliação, guardrails e LLMOps |
+| Inteligência artificial | RAG, agentes com ferramentas, embeddings, busca vetorial, context engineering, avaliação, guardrails e LLMOps |
 
 ## ⭐ Projetos em destaque
 
