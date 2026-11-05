@@ -66,13 +66,13 @@ Desenvolvimento de soluções com modelos generativos, recuperação de contexto
 | Área | Aplicações |
 | --- | --- |
 | Logística Internacional | POPs com IA, automações, SAP/BigQuery, PGL e orçamento inbound |
-| Operações financeiras | Conciliação, recebíveis, numerário, transportadoras e marketplace |
-| Contabilidade e estoque | Estoque contábil, movimentos SAP, aging e classificação |
-| Automação SAP | Extrações, validações e pipelines locais |
-| Engenharia de dados | SQL, DuckDB, Parquet, normalização e contratos de entrada |
-| Google Workspace | Apps Script, Sheets, Gmail e Drive em fluxos operacionais |
-| Governança | Auditoria, evidências, logs e reprocessamento |
-| Inteligência artificial | Agentes, RAG, busca vetorial, ferramentas e LLMOps |
+| Operações financeiras | Conciliação, contas a receber, numerário, transportadoras de valores e marketplace |
+| Contabilidade e estoque | Posição contábil, movimentos de materiais, cadastros, aging e regras de classificação |
+| Automação SAP | Extrações assistidas, validação de arquivos e integração com pipelines locais |
+| Engenharia de dados | Normalização, deduplicação, contratos de entrada, DuckDB, Parquet e SQL |
+| Google Workspace | Sheets, Gmail, Drive e Apps Script para fluxos operacionais e comunicação |
+| Governança | Evidências, hashes, logs, histórico de execução e controles de reprocessamento |
+| Inteligência artificial | RAG, agentes com ferramentas, embeddings, busca vetorial, context engineering, avaliação, guardrails e LLMOps |
 
 ## ⭐ Projetos em destaque
 
