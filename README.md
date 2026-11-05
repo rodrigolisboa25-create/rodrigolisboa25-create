@@ -75,6 +75,12 @@ Desenvolvimento de soluções com modelos generativos, recuperação de contexto
 
 ## ⭐ Projetos em destaque
 
+### NexxusDoc
+
+Agente para documentar processos por meio de entrevistas guiadas, gerar procedimentos em PDF e acompanhar revisão, aprovação e consulta ao acervo. Desenvolvido como aplicação local para Windows, com Python, FastAPI e fluxos de IA.
+
+➡️ [Conheça o projeto NexxusDoc](https://github.com/rodrigolisboa25-create/projects/tree/main/nexxusdoc)
+
 ### Estoque Contábil
 
 Plataforma local em Python e FastAPI para processar posições contábeis de estoque, automatizar extrações SAP, consolidar regras de negócio e disponibilizar análises auditáveis.
