@@ -65,14 +65,14 @@ Desenvolvimento de soluções com modelos generativos, recuperação de contexto
 
 | Área | Aplicações |
 | --- | --- |
-| Log. Internacional | NexxusDoc: documentação de processos e POPs com IA, base de conhecimento e REF. DOCS; mapeamento de oportunidades de automação e fluxos As Is; consultas ao BigQuery e análise técnica de transações SAP; processos da PGL e cenários de orçamento inbound |
-| Operações financeiras | Conciliação, contas a receber, numerário, transportadoras de valores e marketplace |
-| Contabilidade e estoque | Posição contábil, movimentos de materiais, cadastros, aging e regras de classificação |
-| Automação SAP | Extrações assistidas, validação de arquivos e integração com pipelines locais |
-| Engenharia de dados | Normalização, deduplicação, contratos de entrada, DuckDB, Parquet e SQL |
-| Google Workspace | Sheets, Gmail, Drive e Apps Script para fluxos operacionais e comunicação |
+| Log.&nbsp;Internacional | NexxusDoc: documentação de processos e POPs com IA, base de conhecimento e REF. DOCS; mapeamento de oportunidades de automação e fluxos As Is; consultas ao BigQuery e análise técnica de transações SAP; processos da PGL e cenários de orçamento inbound |
+| Operações&nbsp;financeiras | Conciliação, contas a receber, numerário, transportadoras de valores e marketplace |
+| Contabilidade&nbsp;e&nbsp;estoque | Posição contábil, movimentos de materiais, cadastros, aging e regras de classificação |
+| Automação&nbsp;SAP | Extrações assistidas, validação de arquivos e integração com pipelines locais |
+| Engenharia&nbsp;de&nbsp;dados | Normalização, deduplicação, contratos de entrada, DuckDB, Parquet e SQL |
+| Google&nbsp;Workspace | Sheets, Gmail, Drive e Apps Script para fluxos operacionais e comunicação |
 | Governança | Evidências, hashes, logs, histórico de execução e controles de reprocessamento |
-| Inteligência artificial | RAG, agentes com ferramentas, embeddings, busca vetorial, context engineering, avaliação, guardrails e LLMOps |
+| Inteligência&nbsp;artificial | RAG, agentes com ferramentas, embeddings, busca vetorial, context engineering, avaliação, guardrails e LLMOps |
 
 ## ⭐ Projetos em destaque
 
