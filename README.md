@@ -77,15 +77,17 @@ Desenvolvimento de soluções com modelos generativos, recuperação de contexto
 
 ### 🧩 NexxusDoc
 
-Aplicação local em Python e FastAPI para documentar processos por entrevistas guiadas, organizar anexos e referências, gerar procedimentos em PDF e acompanhar revisão, aprovação e consulta ao acervo.
+Aplicação local em Python e FastAPI para documentar processos por entrevistas guiadas, gerar POPs em PDF e conectar a experiência da equipe a uma base de conhecimento útil para melhorias e automações direcionadas.
 
-🤖 O destaque é o **NexxusDoc**, agente de IA orquestrado pelo n8n com um modelo Gemini configurado em endpoint compatível. Ele pergunta uma coisa por vez sobre etapas, responsáveis, sistemas, controles, evidências, riscos e exceções. Na revisão de um documento antigo, aproveita o conteúdo recebido e investiga apenas as lacunas. A API local prepara o contexto e valida campos essenciais antes de gerar o PDF.
+🤖 O **NexxusDoc** usa IA orquestrada pelo n8n para perguntar sobre etapas, responsáveis, sistemas, regras, controles, exceções e evidências. A API valida as respostas, apoia a revisão de documentos antigos e coordena versões e aprovação humana.
 
-O sistema sinaliza temas duplicados, relaciona procedimentos, mantém versões e registra a decisão de aprovadores habilitados. As entrevistas também alimentam um mapa de oportunidades de automação. O modelo auxilia a redação; o responsável da área revisa o conteúdo antes da vigência.
+🪐 O **REF. DOCS** mostra um universo de procedimentos: fases da jornada, processos, POPs, manuais, etapas do prestador, transações SAP e controles. Ele evidencia relações e lacunas documentais. As páginas **Chat Nexxus**, **Documentos**, **Automação**, **PGL**, **Budget** e **Configurações** conectam captura, consulta, aprovação, diagnóstico e operação.
 
-**Tecnologias:** Python, FastAPI, HTML/CSS/JavaScript, n8n, Gemini, Google Drive e PDF. A versão pública traz código e workflow sanitizados, com dados e credenciais corporativas excluídos.
+⚙️ O **Mapa de Automação** associa oportunidades a etapas, esforço, impacto, riscos e pré-requisitos; o **Fluxo As Is** mostra decisões e pontos de melhoria. Para usuários autorizados, a página consulta agregados no **BigQuery** ligados às transações SAP e prepara uma ficha técnica com alternativas dentro e fora do SAP para validação pelo time de Tech SAP. As automações propostas dependem de análise e implementação próprias.
 
-➡️ [Código, fluxogramas e documentação do NexxusDoc](https://github.com/rodrigolisboa25-create/projects/tree/main/nexxusdoc)
+**Tecnologias:** Python, FastAPI, HTML/CSS/JavaScript, n8n, Gemini, Google Drive, BigQuery e PDF. A publicação traz código sanitizado; dados e credenciais corporativas ficaram fora.
+
+➡️ [Código, páginas, fluxogramas e arquitetura do NexxusDoc](https://github.com/rodrigolisboa25-create/projects/tree/main/nexxusdoc)
 
 ### Estoque Contábil
 
