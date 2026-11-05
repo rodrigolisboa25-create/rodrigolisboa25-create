@@ -86,7 +86,9 @@ Aplicação local em Python e FastAPI para documentar processos por entrevistas 
 
 ⚙️ O **Mapa de Automação** associa oportunidades a etapas, esforço, impacto, riscos e pré-requisitos; o **Fluxo As Is** mostra decisões e pontos de melhoria. Para usuários autorizados, a página consulta agregados no **BigQuery** ligados às transações SAP e prepara uma ficha técnica com alternativas dentro e fora do SAP para validação pelo time de Tech SAP. As automações propostas dependem de análise e implementação próprias.
 
-**Tecnologias:** Python, FastAPI, HTML/CSS/JavaScript, n8n, Gemini, Google Drive, BigQuery e PDF. A publicação traz código sanitizado; dados e credenciais corporativas ficaram fora.
+🖥️ Para comunicar cada oportunidade à gestão, a **Qwen3.5:4b roda localmente via Ollama** e redige um resumo executivo a partir dos dados documentados. Só o master inicia a geração; o texto fica disponível na pasta compartilhada após revisão.
+
+**Tecnologias:** Python, FastAPI, HTML/CSS/JavaScript, n8n, Gemini, Qwen local/Ollama, Google Drive, BigQuery e PDF. A publicação traz código sanitizado; dados e credenciais corporativas ficaram fora.
 
 ➡️ [Código, páginas, fluxogramas e arquitetura do NexxusDoc](https://github.com/rodrigolisboa25-create/projects/tree/main/nexxusdoc)
 
